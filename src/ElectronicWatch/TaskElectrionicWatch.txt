@@ -1,0 +1,9 @@
+For the given value of seconds since midnight, return the electronic watch screen output.
+
+Input value is given via . Output value mut be printed to 
+
+It is guaranteed, that input number is non-negative.
+
+Output format is  (possible values: [0:00:00; 23:59:59]).
+
+Extra challenge: try to solve the task without using  statements or cycles.

@@ -1,0 +1,11 @@
+Given: class Point, skeleton of class Triangle.
+
+Implement Triangle methods:
+
+constructor, having three points as parameters.
+These points refers to vertices of the triangle.
+Ensure the created triangle exists and it is not degenerative.\\
+double area()
+Return the area of the triangle.
+Point centroid()
+Return the centroid of the triangle.

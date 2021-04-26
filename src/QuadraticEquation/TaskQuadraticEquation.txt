@@ -1,0 +1,11 @@
+For the given quadratic equation coefficients (ax2 + bx + c = 0)
+return one or two roots of the equation if there is any in the set of real numbers.
+
+Input value is given via System.in. Output value must be printed to System.out.
+
+Output format is:
+
+x1 x2
+x1
+no roots
+The a parameter is guaranteed to be not zero.
